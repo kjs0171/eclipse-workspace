@@ -1,0 +1,11 @@
+package java;
+
+public class Exxx {
+
+	public static void main(String[] args) {
+
+		System.out.println("출력하세요");
+		
+	}
+
+}

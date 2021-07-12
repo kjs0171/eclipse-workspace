@@ -1,0 +1,20 @@
+package java_1;
+
+public class Q16 {
+
+	public static void main(String[] args) {
+		
+		String course[] = {"Java", "C++", "HTML5", "컴퓨터구조", "안드로이드"};
+		int score[]  = {95, 88, 76, 62, 55};
+		
+		String name; 
+		if(course[i].equals(name)) { 
+		    int n = score[i]; 
+		    System.out.println(course[i]);
+		
+		
+		
+		}
+	}
+
+}

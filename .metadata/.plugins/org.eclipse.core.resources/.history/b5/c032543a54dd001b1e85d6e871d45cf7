@@ -1,0 +1,27 @@
+package java;
+
+import java.util.Scanner;
+
+public class 연습문제02 {
+
+	public static void main(String[] args) {
+		
+		int i;
+		int j;
+		
+		Scanner sc = new Scanner(System.in);
+		System.out.println("숫자를 입력하세요 >> ");
+		int num = sc.nextInt();
+		(num / 10) = i;
+		(num % 10) = j;
+		
+			if (i==j) {
+				System.out.println("Yes! 10의 자리와 1의 자리가 같습니다.");
+			}
+			else {
+				System.out.println("No! 10의 자리와 1의 자리가 다릅니다.");
+			}
+			}
+	}
+
+

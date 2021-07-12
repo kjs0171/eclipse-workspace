@@ -1,0 +1,17 @@
+package java_1;
+
+public class Q17 {
+
+	public static void main(String[] args) {
+		
+		String str[] = {"가위", "바위", "보"}; 
+		
+		int n = (int)(Math.random()*3);
+		
+		if(str[n].equals("바위"))
+		
+		
+		
+	}
+
+}

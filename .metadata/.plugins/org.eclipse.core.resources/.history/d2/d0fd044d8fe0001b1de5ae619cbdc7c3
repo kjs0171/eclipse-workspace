@@ -1,0 +1,18 @@
+package practice;
+
+public class Car {
+	
+	protected String name;
+	
+	public Car(String name) {
+		this.name = name;
+	}
+	
+	final public void run()
+	start();
+	drive();
+	stop();
+	turnoff();
+	
+	
+}

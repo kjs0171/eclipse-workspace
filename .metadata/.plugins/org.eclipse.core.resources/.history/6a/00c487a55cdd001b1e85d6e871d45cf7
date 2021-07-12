@@ -1,0 +1,33 @@
+package example;
+
+import java.util.Scanner;
+
+public class Practice03 {
+
+	public static void main(String[] args) {
+		
+		
+		Scanner sc = new Scanner(System.in);
+		System.out.print("정수 3개를 입력하시오. >> ");
+		int n = sc.nextInt();
+		
+		int max = 0;
+		int min = 0;
+		int[] arr = new int[3];
+		
+		for ( int i = 0; i < 3; i++) {
+			if(arr[i] > max)
+				continue;
+			if(arr[i] < min)
+				continue;
+			else{
+				System.out.println(arr[i]);
+			}
+		}
+		
+		
+		
+		
+	}
+
+}

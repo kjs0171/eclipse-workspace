@@ -1,0 +1,23 @@
+package overrride3;
+	
+class Shape {
+	protected String name;
+	public void print() {
+		draw();
+	}
+	public void draw() {
+		System.out.println(name);
+	}
+}
+	
+public class Circle {
+	
+	
+	
+	public static void main(String[] args) {
+		
+		
+		
+	}
+
+}

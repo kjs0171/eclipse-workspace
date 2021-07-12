@@ -1,0 +1,21 @@
+package java;
+
+import java.util.Scanner;
+
+public class Scaaner01 {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		int won = sc.nextInt();
+		System.out.println("금액을 입력하시오 >> ");
+		
+		double num = won / 1100;
+		System.out.println(won +"원은 $" + num + "입니다.");
+		
+		
+		
+		sc.close();
+	}
+
+}

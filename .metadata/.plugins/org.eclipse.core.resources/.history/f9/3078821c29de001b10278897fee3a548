@@ -1,0 +1,10 @@
+package inheritance06;
+
+public class Customer {
+	
+	private int customerID;
+	private String customerName;
+	Private String CustomerGrade;
+	
+
+}

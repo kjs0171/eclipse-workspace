@@ -1,0 +1,23 @@
+package example;
+
+import java.util.Scanner;
+
+public class Practice01 {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		System.out.print("숫자를 입력하세요 > ");
+		int n = sc.nextInt();
+		
+		int i;
+		int j;
+		
+		(n / 10) = i;
+		(n % 10) = j;
+		
+		
+		
+	}
+
+}

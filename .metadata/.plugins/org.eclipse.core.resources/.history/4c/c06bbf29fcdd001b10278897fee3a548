@@ -1,0 +1,5 @@
+package inheritance;
+
+public class ColerPoint extends Point{			// 부모 : Point, 자식 : ColerPoint
+	
+}
